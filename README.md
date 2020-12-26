@@ -34,3 +34,7 @@ Go to the [Chrome extension store](TODO) or [Firefox add-ons page](TODO) to inst
 [![](https://github.com/daattali/cashflow-calculation-extension/blob/master/img/doc/cashflowcalc1.png)](https://github.com/daattali/cashflow-calculation-extension/blob/master/img/doc/cashflowcalc1.png)
 
 [![](https://github.com/daattali/cashflow-calculation-extension/blob/master/img/doc/cashflowcalc2.png)](https://github.com/daattali/cashflow-calculation-extension/blob/master/img/doc/cashflowcalc2.png)
+
+---
+
+To see my other projects, visit [deanattali.com/projects](https://deanattali.com/projects)
