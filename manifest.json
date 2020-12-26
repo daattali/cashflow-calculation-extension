@@ -1,8 +1,8 @@
 {
-  "name": "Rental Cashflow Calculator Plugin",
-  "version": "1.0.0",
+  "name": "Cashflow Calculator for Zillow/Trulia/Redfin",
+  "version": "1.1.0",
   "manifest_version": 2,
-  "description": "Cashflow calculator plugin to analyze deals for Zillow, Trulia, and Redfin.",
+  "description": "Rental cashflow calculator that lets you analyze deals using cashflowcalc.com - works on Zillow/Trulia/Redfin.",
   "icons": {
     "16": "img/icon-16.png",
     "48": "img/icon-48.png",
