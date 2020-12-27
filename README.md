@@ -2,7 +2,7 @@
 
 > *Copyright 2020 [Dean Attali](https://deanattali.com)*
 
-_Install the [Chrome extension](TODO) or [Firefox add-on](TODO)_
+_Install the [Chrome extension](TODO) or [Firefox add-on](https://addons.mozilla.org/en-CA/firefox/addon/rental-cashflow-calculator/)_
 
 As an investor, when browsing on Zillow/Trulia/Redfin, you often want to analyze each deal to see how the monthly cashflow and yearly return would look like. This extension adds a button to each property that allows you to easily start analyzing that deal on [cashflowcalc.com](https://cashflowcalc.com/).
 
@@ -21,7 +21,7 @@ As an investor, when browsing on Zillow/Trulia/Redfin, you often want to analyze
 
 ## Installation
 
-Go to the [Chrome extension store](TODO) or [Firefox add-ons page](TODO) to instantly install with one click.
+Go to the [Chrome extension store](TODO) or [Firefox add-ons page](https://addons.mozilla.org/en-CA/firefox/addon/rental-cashflow-calculator/) to instantly install with one click.
 
 ## Screenshots
 
