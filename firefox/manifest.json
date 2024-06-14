@@ -1,0 +1,30 @@
+{
+  "name": "Cashflow Calculator for Zillow/Trulia/Redfin",
+  "version": "1.2.0",
+  "manifest_version": 3,
+  "description": "Rental cashflow calculator that lets you analyze deals using cashflowcalc.com - works on Zillow/Trulia/Redfin.",
+  "icons": {
+    "16": "img/icon-16.png",
+    "48": "img/icon-48.png",
+    "128": "img/icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.zillow.com/*",
+        "https://www.trulia.com/*",
+        "https://www.redfin.com/*",
+        "https://www.redfin.ca/*"
+      ],
+      "css": ["css/cashflowcalc-zillow.css"],
+      "js": ["js/cashflowcalc-zillow.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{b0b4ee37-5ea2-4300-931d-427319c44e28}"
+    }
+  },
+  "homepage_url": "https://github.com/daattali/cashflow-calculation-extension"
+}

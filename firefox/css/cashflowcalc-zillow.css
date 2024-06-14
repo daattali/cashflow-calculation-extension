@@ -1,0 +1,46 @@
+.cashflowcalc-btn {
+  display: block;
+  cursor: pointer;
+  margin: 10px 0;
+  text-align: center;
+  color: #fcfcfc !important;
+  background: #5cb85c;
+  border: none !important;
+  outline: none !important;
+  border-radius: 3px;
+  padding: 6px 0;  
+}
+.cashflowcalc-btn:hover,
+.cashflowcalc-btn:focus {
+  background: #449d44;
+}
+.cashflowcalc-btn:active {
+  background: #398439;
+}
+
+.cashflowcalc-btn.cashflowcalc-zillow-main {
+  margin: 10px;
+}
+.cashflowcalc-btn.cashflowcalc-zillow-big {
+  margin: 10px 0 0;
+  padding: 10px 0;
+}
+.cashflowcalc-btn.cashflowcalc-trulia {
+  margin: 0;
+}
+.cashflowcalc-btn.cashflowcalc-trulia-big {
+  padding: 8px 0;
+  font-size: 1.1em;
+}
+.cashflowcalc-btn.cashflowcalc-redfin-main {
+  border: 1px solid #5b9458 !important;
+  position: absolute;
+  font-weight: bold;
+  left: 10px;
+  top: -4em;
+  padding: 6px 10px;
+}
+.cashflowcalc-btn.cashflowcalc-redfin-big {
+  font-size: 1.1em;
+  width: 300px;
+}
